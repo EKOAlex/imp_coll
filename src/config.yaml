@@ -1,0 +1,13 @@
+machine:
+  Xmin: 0
+  Xmax: 3000
+  Zmin: 0
+  Zmax: 180
+  Ymin: 0
+  Y1_max: 550
+  Y2_max: 140
+  y_var_along: Z
+
+tube:
+  OD: 35
+  gioco: 2
